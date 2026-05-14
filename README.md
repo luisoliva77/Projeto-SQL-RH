@@ -1,4 +1,4 @@
-#Sobre o Projeto
+Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de simular um sistema de Gestão de Pessoas utilizando SQL Server para modelagem e análise de dados, além do Power BI para construção de dashboards analíticos.
 
