@@ -32,11 +32,10 @@ Procedures
 Subqueries
 CTEs
 Tabelas Temporárias
-📊 Dashboard Desenvolvido
 
-## O dashboard foi criado no Power BI com foco em indicadores de RH e gestão organizacional.
+# Dashboard Desenvolvido
 
-# Principais métricas analisadas:
+## Principais métricas analisadas:
 Total de funcionários ativos
 Taxa de turnover
 Distribuição de funcionários por gênero
