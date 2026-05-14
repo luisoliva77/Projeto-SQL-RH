@@ -1,4 +1,4 @@
-Sobre o Projeto
+# Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de simular um sistema de Gestão de Pessoas utilizando SQL Server para modelagem e análise de dados, além do Power BI para construção de dashboards analíticos.
 
@@ -10,7 +10,7 @@ T-SQL
 Power BI
 🗂 Estrutura do Banco de Dados
 
-O banco foi modelado utilizando conceitos de banco de dados relacional, contendo tabelas como:
+## O banco foi modelado utilizando conceitos de banco de dados relacional, contendo tabelas como:
 
 FUNCIONARIO
 CARGO
@@ -22,7 +22,7 @@ FALTA
 DEPENDENTE
 TELEFONE_FUNC
 
-Além disso, foram aplicados:
+### Além disso, foram aplicados:
 
 Primary Keys
 Foreign Keys
@@ -34,9 +34,9 @@ CTEs
 Tabelas Temporárias
 📊 Dashboard Desenvolvido
 
-O dashboard foi criado no Power BI com foco em indicadores de RH e gestão organizacional.
+## O dashboard foi criado no Power BI com foco em indicadores de RH e gestão organizacional.
 
-Principais métricas analisadas:
+# Principais métricas analisadas:
 Total de funcionários ativos
 Taxa de turnover
 Distribuição de funcionários por gênero
@@ -45,7 +45,8 @@ Funcionários por cidade
 Estrutura hierárquica por departamento e cargo
 Indicadores salariais
 Benefícios por funcionário
-📈 Objetivo do Projeto
+
+# Objetivo do Projeto
 
 O principal objetivo deste projeto foi praticar:
 
@@ -60,7 +61,7 @@ Modelagem de dados
 Visualizações interativas
 Indicadores de RH
 
-▶️ Como Executar o Projeto
+## ▶️ Como Executar o Projeto
 1. Banco de Dados
 Execute o script SQL no SQL Server Management Studio (SSMS)
 2. Power BI
@@ -70,6 +71,6 @@ Atualize os dados
 Filtros dinâmicos
 Dashboards analíticos
 
-👨‍💻 Autor
+## 👨‍💻  Autor
 
 Projeto desenvolvido para estudos e prática de análise de dados, SQL e Power BI.
